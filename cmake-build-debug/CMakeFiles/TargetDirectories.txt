@@ -1,0 +1,3 @@
+/home/sushant/CLionProjects/stboost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sushant/CLionProjects/stboost/cmake-build-debug/CMakeFiles/stboost.dir
+/home/sushant/CLionProjects/stboost/cmake-build-debug/CMakeFiles/edit_cache.dir
